@@ -1,0 +1,8 @@
+{
+  "name": "minibus-telegram-relay",
+  "version": "1.0.0",
+  "description": "Simple Telegram relay for Minibus Fis system",
+  "main": "api/send.js",
+  "license": "MIT",
+  "type": "module"
+}
